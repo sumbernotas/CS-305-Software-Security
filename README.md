@@ -1,5 +1,5 @@
 # CS-305-Software-Security
-300 level course taken at SNHU, teaching software security practices
+This course teaches how to develop secure code that complies with security testing protcols through analysis of advanced security concepts. 
 
 # Scenario
 You work as a developer for a software engineering company called Global Rain. Global Rain specializes in custom software design and development. The software is for entrepreneurs, businesses, and government agencies around the world. Part of the company’s mission is “Security is everyone’s responsibility.” Global Rain has promoted you to its new agile scrum team.
